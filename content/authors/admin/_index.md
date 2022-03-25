@@ -46,7 +46,7 @@ education:
 email: ekakowuah.coe@knust.edu.gh
 superuser: true
 user_groups:
-  - Researchers
+  - PrincipalInvestigator
 highlight_name: false
 ---
 <!--StartFragment-->
