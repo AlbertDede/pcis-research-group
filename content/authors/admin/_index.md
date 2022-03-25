@@ -28,7 +28,7 @@ social:
       header: false
     icon_pack: ai
     link: https://webapps.knust.edu.gh/staff/dirsearch/profile/summary/525c5345ba0b.html
-    icon: knust
+    icon: archive
 organizations:
   - name: Kwame Nkrumah University Of Science And Technology
     url: https://knust.edu.gh
