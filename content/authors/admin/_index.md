@@ -26,12 +26,17 @@ social:
     link: https://scholar.google.com/citations?user=Cwph_x0AAAAJ&hl=en&oi=ao
   - display:
       header: false
-    link: https://webapps.knust.edu.gh/staff/dirsearch/profile/summary/525c5345ba0b.html
     icon_pack: ai
-    icon: archive
+    icon: researhgate
+    link: https://www.researchgate.net/profile/Emmanuel-Akowuah-3
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/emmanuel-kofi-akowuah-phd-mieee-pe-ghie-34400513/?trk=public_profile_browsemap_profile-result-card_result-card_full-click&originalSubdomain=gh
+    icon_pack: fab
+    icon: linkedin
 organizations:
   - name: Kwame Nkrumah University Of Science And Technology
-    url: https://knust.edu.gh
+    url: https://webapps.knust.edu.gh/staff/dirsearch/profile/summary/525c5345ba0b.html
 education:
   courses:
     - course: PhD Electronics
