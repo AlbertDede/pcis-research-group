@@ -35,7 +35,7 @@ education:
       institution: Kwame Nkrumah University of Science and Technology
       year: 2019
 email: adede3@st.knust.edu.gh
-superuser: false
+superuser: true
 user_groups:
   - MPhil Students
 ---
