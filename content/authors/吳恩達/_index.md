@@ -37,7 +37,7 @@ education:
       year: 2016
     - course: BSc Computer Engineering
       institution: Kwame Nkrumah University of Science and Technology
-      year: 2016
+      year: 2014
 email: tmaaddaiyeboah1@st.knust.edu.gh
 user_groups:
   - Researcher
