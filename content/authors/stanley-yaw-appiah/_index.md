@@ -9,5 +9,5 @@ social:
     icon: envelope
 superuser: false
 user_groups:
-  - MPhilStudents
+  - MPhil Students
 ---
