@@ -17,28 +17,28 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
+    link: mailto:tmaaddaiyeboah1@st.knust.edu.gh
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
+    link: https://www.linkedin.com/in/theresa-samuelle-adjaidoo-89960275/
+  - icon: researchgate
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.researchgate.net/profile/Theresa-Samuelle-Adjaidoo
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD Computer Engineering
+      institution: Kwame Nkrumah University of Science and Technology
+      year: 2021
+    - course: MPhil Computer Engineering
+      institution: Kwame Nkrumah University of Science and Technology
+      year: 2016
+    - course: BSc Computer Engineering
+      institution: Kwame Nkrumah University of Science and Technology
+      year: 2016
+email: tmaaddaiyeboah1@st.knust.edu.gh
 user_groups:
   - Researchers
   - Visitors
