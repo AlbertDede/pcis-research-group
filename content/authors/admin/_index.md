@@ -44,7 +44,7 @@ education:
       institution: Kwame Nkrumah University of Science and Technology, Ghana
       year: 2006
 email: ekakowuah.coe@knust.edu.gh
-superuser: false
+superuser: true
 user_groups:
   - Researchers
 highlight_name: false
