@@ -1,5 +1,6 @@
 ---
 title: Stanley Yaw Appiah
+role: MPhil Computer Engineering
 avatar_filename: avatar.jpg
 social:
   - display:
