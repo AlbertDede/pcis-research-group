@@ -3,7 +3,7 @@ widget: hero
 widget_id: intro
 headless: true
 weight: 10
-title: PCIS - KNUST          Research Group
+title: PCIS - KNUST Research Group
 hero_media: welcome.jpg
 design:
   columns: "1"
