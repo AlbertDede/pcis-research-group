@@ -1,11 +1,10 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
+title: Chibueze Ikpo and Danlard Iddrisu pass their PhD Comprehensive Examination
 date: 2020-12-02
 image:
-  focal_point: 'top'
+  focal_point: top
 ---
-
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+Congratulations to Chibueze Ikpo and Danlard Iddrisu for passing their PhD Comprehensive Exams which were taken on Thursday 24th and Monday 28th March, 2022 respectively. 
 
 <!--more-->
 
