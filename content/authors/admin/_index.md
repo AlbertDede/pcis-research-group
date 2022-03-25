@@ -26,11 +26,6 @@ social:
     link: https://scholar.google.com/citations?user=Cwph_x0AAAAJ&hl=en&oi=ao
   - display:
       header: false
-    icon_pack: ai
-    icon: researchgate
-    link: https://www.researchgate.net/profile/Emmanuel-Akowuah-3
-  - display:
-      header: false
     link: https://www.linkedin.com/in/emmanuel-kofi-akowuah-phd-mieee-pe-ghie-34400513/?trk=public_profile_browsemap_profile-result-card_result-card_full-click&originalSubdomain=gh
     icon_pack: fab
     icon: linkedin
