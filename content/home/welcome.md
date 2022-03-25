@@ -14,4 +14,4 @@ design:
 ---
 <br>
 
-The **Photonics, Communication and Intelligent Energy Systems (P-CIS)** **Research Group** at the Department of Computer Engineering, KNUST has been established as a center of excellence for Photonics, Communication, Intelligent (Energy and Transport) Systems, and Inter-disciplinary research, teaching, and practice.
+The **Photonics, Communication and Intelligent Systems (P-CIS)** **Research Group** at the Department of Computer Engineering, KNUST has been established as a center of excellence for Photonics, Communication, Intelligent (Energy and Transport) Systems, and Inter-disciplinary research, teaching, and practice.
