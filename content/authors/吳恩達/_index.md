@@ -40,7 +40,7 @@ education:
       year: 2016
 email: tmaaddaiyeboah1@st.knust.edu.gh
 user_groups:
-  - Researchers
+  - Researcher
 ---
 <!--StartFragment-->
 
