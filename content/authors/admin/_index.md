@@ -21,14 +21,19 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ekakowuah
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=Cwph_x0AAAAJ&hl=en&oi=ao
   - display:
       header: false
     link: https://www.linkedin.com/in/emmanuel-kofi-akowuah-phd-mieee-pe-ghie-34400513/?trk=public_profile_browsemap_profile-result-card_result-card_full-click&originalSubdomain=gh
     icon_pack: fab
     icon: linkedin
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=Cwph_x0AAAAJ&hl=en&oi=ao
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Emmanuel-Akowuah-3
+    icon_pack: ai
+    icon: researchgate
 organizations:
   - name: Kwame Nkrumah University Of Science And Technology
     url: https://webapps.knust.edu.gh/staff/dirsearch/profile/summary/525c5345ba0b.html
