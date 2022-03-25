@@ -27,7 +27,7 @@ social:
   - display:
       header: false
     icon_pack: ai
-    icon: researhgate
+    icon: researchgate
     link: https://www.researchgate.net/profile/Emmanuel-Akowuah-3
   - display:
       header: false
