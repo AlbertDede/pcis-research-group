@@ -39,10 +39,10 @@ education:
       year: 2012
     - course: MSc. Broadband and Mobile Communication Networks
       institution: University of Kent, UK
-      year: 2007
+      year: 2009
     - course: BSc Electrical and Electronic Engineering
       institution: Kwame Nkrumah University of Science and Technology, Ghana
-      year: 2004
+      year: 2006
 email: ekakowuah.coe@knust.edu.gh
 superuser: false
 user_groups:
