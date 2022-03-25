@@ -18,10 +18,11 @@ content:
   user_groups:
     - Principal Investigators
     - Researchers
-    - Grad Students
-    - Administration
+    - PhD Students
+    - MPhil Students
+    - BSc Students
     - Visitors
-    - Alumni
+    - Past Students
 design:
   show_interests: false
   show_role: true
