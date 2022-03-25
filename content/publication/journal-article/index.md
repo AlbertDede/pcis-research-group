@@ -27,7 +27,7 @@ publication_types:
 authors:
   - Iddrisu Danlard
   - Isaac O Mensah
-  - Emmanuel K Akowuah
+  - Emmanuel Kofi Akowuah
 author_notes:
   - Equal contribution
   - Equal contribution
@@ -52,9 +52,9 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-date: 2015-09-01T00:00:00Z
+date: 2015-09-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
