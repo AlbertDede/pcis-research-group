@@ -33,9 +33,9 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: Optik - International Journal for Light and Electronic Optics 258 (2022) 168893
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: A new fractal cladding PCF-based plasmonic sensor for refractive index
+  (RI), temperature, and magnetic field using a single-polarization, single-peak
+  scanning technique.
 url_dataset: ""
 url_project: ""
 publication_short: Optik
@@ -46,21 +46,23 @@ title: Design and numerical analysis of a fractal cladding PCF-based plasmonic
 doi: https://doi.org/10.1016/j.ijleo.2022.168893
 featured: false
 tags:
-  - Source Themes
+  - PCF
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  caption: "Image credit:
+    [**Elsevier**](https://www.sciencedirect.com/science/article/pii/S003040262\
+    2002819)"
   focal_point: ""
   preview_only: false
-date: 2015-09-01T00:00:00.000Z
+  filename: paper1.jpg
+date: 2022-03-25T10:13:36.447Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to import publication metadata into their reference management software.
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
