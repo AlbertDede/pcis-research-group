@@ -3,6 +3,7 @@ title: Chibueze Ikpo and Danlard Iddrisu pass their PhD Comprehensive Examinatio
 date: 2020-12-02
 image:
   focal_point: top
+  filename: featured.jpg
 ---
 Congratulations to Chibueze Ikpo and Danlard Iddrisu for passing their PhD Comprehensive Exams which were taken on Thursday 24th and Monday 28th March, 2022 respectively. 
 
