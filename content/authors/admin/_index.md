@@ -1,5 +1,5 @@
 ---
-title: Emmanuel Kofi Akowuah, Prof.
+title: Emmanuel Kofi Akowuah
 role: Associate Professor of Computer Engineering
 bio: My research interests include high-speed optical communication systems and
   devices, network and cyber security, communcation system design and
