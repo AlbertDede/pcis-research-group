@@ -29,9 +29,17 @@ authors:
   - Isaac O Mensah
   - Emmanuel Kofi Akowuah
 author_notes:
-  - Equal contribution
-  - Equal contribution
-  - Equal contribution
+  - Department of Computer Engineering
+  - Kwame Nkrumah University of Science and Technology
+  - Kumasi
+  - Ghana
+  - Department of Communication Engineering
+  - Carinthia University of Applied Science
+  - Austria
+  - Department of Computer Engineering
+  - Kwame Nkrumah University of Science and Technology
+  - Kumasi
+  - Ghana
 publication: Optik - International Journal for Light and Electronic Optics 258 (2022) 168893
 summary: A new fractal cladding PCF-based plasmonic sensor for refractive index
   (RI), temperature, and magnetic field using a single-polarization, single-peak
