@@ -4,7 +4,7 @@ role: Lecturer
 avatar_filename: avatar.jpg
 organizations:
   - name: Kwame Nkrumah University of Science and Technology
-    url: https://webapps.knust.edu.gh/staff/dirsearch/profile/areas-of-interest/7e6952af14b8.html#researchinterests
+    url: https://webapps.knust.edu.gh/staff/dirsearch/profile/summary/7e6952af14b8.html
 superuser: false
 authors:
   - 吳恩達
