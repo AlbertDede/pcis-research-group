@@ -34,7 +34,7 @@ education:
       year: 2021
     - course: MPhil Computer Engineering
       institution: Kwame Nkrumah University of Science and Technology
-      year: 2016
+      year: 2017
     - course: BSc Computer Engineering
       institution: Kwame Nkrumah University of Science and Technology
       year: 2014
