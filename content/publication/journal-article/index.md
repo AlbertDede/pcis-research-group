@@ -54,7 +54,7 @@ image:
     2002819)"
   focal_point: ""
   preview_only: false
-  filename: paper1.jpg
+  filename: content/publication/journal-article/paper1.jpg
 date: 2022-03-25T10:13:36.447Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
