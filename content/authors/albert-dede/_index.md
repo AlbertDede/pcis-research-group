@@ -37,5 +37,5 @@ education:
 email: adede3@st.knust.edu.gh
 superuser: false
 user_groups:
-  - MPhilStudents
+  - MPhil Students
 ---
