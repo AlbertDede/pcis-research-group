@@ -41,7 +41,6 @@ education:
 email: tmaaddaiyeboah1@st.knust.edu.gh
 user_groups:
   - Researchers
-  - Visitors
 ---
 <!--StartFragment-->
 
