@@ -24,11 +24,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=Cwph_x0AAAAJ&hl=en&oi=ao
-  - display:
-      header: false
-    icon_pack: ai
-    link: https://webapps.knust.edu.gh/staff/dirsearch/profile/summary/525c5345ba0b.html
-    icon: archive
 organizations:
   - name: Kwame Nkrumah University Of Science And Technology
     url: https://knust.edu.gh
