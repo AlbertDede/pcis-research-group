@@ -53,7 +53,7 @@ image:
     [**Elsevier**](https://www.sciencedirect.com/science/article/pii/S003040262\
     2002819)"
   focal_point: ""
-  preview_only: true
+  preview_only: false
   filename: paper1.jpg
 date: 2022-03-25T10:13:36.447Z
 url_slides: ""
