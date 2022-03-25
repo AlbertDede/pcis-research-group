@@ -21,7 +21,7 @@ abstract: This paper presents a new fractal cladding PCF-based plasmonic sensor
   hyperthermia monitoring, medical and chemical sample analysis, biomolecular
   engineering, climatology, magnetocardiography, and magnetomyography.
 slides: null
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0030402622002819/pdfft?md5=66aa56f1ca0598726fcd0bfddc849278&pid=1-s2.0-S0030402622002819-main.pdf
 publication_types:
   - "2"
 authors:
