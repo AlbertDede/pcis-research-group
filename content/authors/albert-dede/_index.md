@@ -31,9 +31,9 @@ education:
     - course: MPhil Computer Engineering
       institution: Kwame Nkrumah University of Science and Technology
       year: 2022
-    - course: MPhil Computer Engineering
+    - course: BSc Computer Engineering
       institution: Kwame Nkrumah University of Science and Technology
-      year: 2021
+      year: 2019
 email: adede3@st.knust.edu.gh
 superuser: false
 user_groups:
